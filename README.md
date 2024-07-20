@@ -35,6 +35,8 @@ Open automatically on startup
 
 
 Note*
-I did not really write this code! This was 99% written by ChatGPT and I just compiled everything together. This is a very early version of the program so there is likely to be many bugs still so please let me know if you run into any issues. If you have any other suggestions for improvements, I would love to hear them from you <3
+I did not really write this code! This was 99% written by ChatGPT and I just compiled everything together. This is a very early version of the program so there is likely to be many bugs still so please let me know if you run into any issues. If you have any other suggestions for improvements, I would love to hear them from you.
+
+Big thanks to Wecca³Dude 2.30s (Federico9292) for beta testing and suggesting new features <3
 
 Made by: Zonkantor - 21.07.24
