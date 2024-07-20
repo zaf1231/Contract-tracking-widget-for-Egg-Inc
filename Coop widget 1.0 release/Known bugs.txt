@@ -1,0 +1,2 @@
+- Completed percentage not showing when just started contract
+- During refreshes (manual and automatic) percentage completed progress bar and printed percentage disappear
